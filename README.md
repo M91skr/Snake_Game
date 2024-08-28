@@ -20,5 +20,5 @@ You need to have docker installed on your machine. you can easily deploy the ser
 the following command in your terminal:
 
 ```bash
-docker compose up
+docker-compose up
 ```
